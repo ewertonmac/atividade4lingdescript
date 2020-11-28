@@ -1,1 +1,1 @@
-# atividade4lingdescript
+# atividade 4: Disciplina linguagens de script
