@@ -1,0 +1,10 @@
+{
+  "name": "modulo1_exe2",
+  "version": "1.0.0",
+  "main": "atv4-exe2.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^4.1.2"
+  }
+}
